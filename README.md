@@ -6,5 +6,3 @@ In this project, we use Adaptive Monte Carlo Localization (AMCL), RTAB Mapping (
 The project must adhere to the [Project Rubric](https://review.udacity.com/#!/rubrics/2351/view)
 
  ![WhereAmIScreenshot](./images/003_001.png)
-
-[![Alt text](https://img.youtube.com/vi/faAQQ8LEZO4/0.jpg)](https://www.youtube.com/watch?v=faAQQ8LEZO4&t=15s)
